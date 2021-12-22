@@ -7,7 +7,7 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    <Simple />
+    <Simple name='Suhail m'/>
   </React.StrictMode>,
   document.getElementById('root')
 );
